@@ -5,7 +5,7 @@
 <hr>
 
 <p align="center">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nordtree12&theme=tokyonight" alt="Nordtree's Stats"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tropicaldreams-eu&theme=tokyonight" alt="Nordtree's Stats"/>
 </p>
 
 <hr>
